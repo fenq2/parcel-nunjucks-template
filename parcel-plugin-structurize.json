@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "match": "*.js",
+            "folder": "js"
+        },
+        {
+            "match": "*.css",
+            "folder": "css"
+        },
+        {
+            "match": "*.{png,svg,jpg,jpg2,jpeg,gif,bmp,webm}",
+            "folder": "images"
+        },
+        {
+            "match": "*.{woff,woff2,ttf,eot}",
+            "folder": "fonts"
+        }
+    ]
+}
